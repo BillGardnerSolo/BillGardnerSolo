@@ -1,0 +1,101 @@
+BILL G. GARDNER
+4151 Careywood Drive, Melbourne, FL
+321 -704-1506 (cell);  billggardner@yahoo.com
+U.S. Citizen; DoD Security Clearance: Secret/SAR
+
+PRINCIPAL SOFTWARE / SYSTEMS ENGINEER
+
+Profile
+
+Full life-cycle project experience in developing and delivering complex system specifications/architectures, real-time embedded software (C/C++), distributed middleware (C++/C#/.Net/Java/Python/JavaScript/Perl), and digital hardware designs for military vendors and the telecom industry.  Strong analytical, problem solving, and communication skills.  Accomplished experience with requirement gathering/analysis, product specification, object-oriented analysis & design, software integration & testing, hardware board design, and system engineering functions.
+
+Accomplished Technical Projects 
+
+•	Produced embedded, data-based driven, space flight software for commercial space satellites in C++/ADA/Integrity-178 RTOS that processes in-coming CCSDS-based commands sent from earth ground stations and that sends telemetry data of internal satellite operations & on-board payload data back to earth ground stations.    
+•	Produced military air vehicle subsystem software in C++/Linux in an Agile/Atlassian program management environment that provides an ‘intelligent’ communications gateway to effectively analyze, translate, and construct a host of tactically planned, mission-plan route events into commands that natively interface to an air vehicle management system used in front-line U.S. military aircraft.
+•	Produced software requirements, architecture design and low-level ‘servlet’ software in C++/Linux that acts as an operational infrastructure ‘backbone’ to an Open-Mission-System (OMS), mission management architecture for advanced U.S. military aircraft.
+•	Produced automated test scripts in Python, JavaScript, and Google Test to officially verify & validate functional execution of embedded software that operates military air vehicle subsystems based on formal Air Vehicle Management system requirements.
+•	Per NSA directives, delivered embedded software security improvements in C/C++/Linux in an Agile environment on JTRS, Wideband Network Software Defined Radios (WNT SDR) for the U.S. Navy.
+•	Produced and tested tactical airspace interface software in C#/.NET & Java/XML in Windows for the U.S. Army TAIS system that addressed the real-time network integration of tactical airspace support with ground-based vehicles and war fighters in theater.
+•	Produced and tested embedded sensor software in C/Linux that manages image intensified (I2) and infrared thermal electronics for U.S. military-grade, low power Enhance Night Vision Goggles.
+•	Produced and tested distributed, object-oriented middleware in C++/UNIX that governs the operation, administration, maintenance, and provisioning of Samsung’s UMTS WCDMA SoftSwitch Next Generation Network System (NGNS), a cellular switch.
+•	Produced real-time embedded software in C/VRTXsa that manages a PowerQUICC-based, communications interface affecting the configuration, provisioning, operational control, and status of PCM voice channels on a Motorola cable port communications modem.
+•	Conducted requirements trace, decomposition, mapping, and gap analysis assessments in Telelogic DOORS & VBA scripts of ground platform sensor requirements allocated by the C4ISR LSI (Raytheon) of the Future-Combat-System Program (FCS).
+•	Produced real-time embedded IS-95B CDMA/AMPS mobile phone software in an ARM7Thumb/ANSI C/NucleusPlus RTOS environment that provides complete data link and network services for all forward and reverse link code channels for Ericsson’s first CDMA cellular phone in North America.
+•	Developed multiple hardware device drivers in Unix for memory modules (ROM, DRAM. FLASH, EEPROM), hardware controllers (interrupt/DMA, FPGAs, PALs), serial bus controllers (Ethernet, UART, SPI, I2C), power management, and programmable timers.
+•	Designed and tested numerous microprocessor-based, FPGA-driven data acquisition boards for General Dynamics’ F-16 Block 30/40 programs, which were used to condition, scale, format, record, and simulate electrical signaling data and data packet information in avionics flight trainers and avionics equipment bays for the U.S. Air Force and foreign customers.
+
+Computer Technology Skills
+
+Languages:   ANSI C++/C, C#/.Net, XML, Java, Python, JavaScript, Perl, Bash, VBA, Matlab, MC680x0/MC68HC11/ARM7 Assemblers
+Operating Systems:  Linux, UNIX, Windows, Integrity, pSOS+/68K, VxWorks, Nucleus Plus, VRTXsa, VAX/VMS
+Network Standards:   Ethernet, I2C, SPI Bus, CAN bus, ARINC-429, MIL-STD-1553B, CDMA/AMPS, UMTS, TCP/IP,  SONET, HDLC
+Case Tools:  Git,  Atlassian Suite - Confluence/JIRA/Bitbucket/Fisheye, Clearcase, Subversion, Rhapsody, DOORS, UML, VectorCAST
+Productivity Tools:  VMWare, Eclipse, Visual Studio, XMLSpy, Vim, Visio, MS Word, PowerPoint, MS Excel, MS Project, EMACS
+In-Circuit Emulators:   HP64700 series, Motorola HDS300 series, Pentica MIME-600, Intel ICE
+Compilers/Debuggers/IDEs:  Atmel IAR/AVR, pPRISM Plus20, Solaris Workshop, VLSI JumpStart JTAG ARM Debugger, ColdWarrior for Windows, pROBE+/68K, DAS 9200 analyzer, Visual Studio 2008 IDE, Ubuntu, Eclipse IDE, GDB
+HW Dev/CAD Tools: ALTERA, ABEL MaxPlus, CUPL, XILINX, Schematic Capture & Timing Analysis/Synthesis on Cadence/ OrCAD/ VALID-Allegro CAD workstations
+Lab Environment:   Virtual Integration Avionic Test Systems, Avionics Flight Trainers/Equipment Bays, VME/VSBbus, Multibus I/II, logic analyzers, oscilloscopes, function generators, JTAG/ICE Development Platforms, microprocessors/controllers: MC68020/30/40, STM32F205,  ARM7/9,  ARM CortexM3, MC68360/860/960 PowerQUICC, VLSI 3670 ARM7Thumb/Oak DSP, ARM946E, Atmel ATMega 1280, MC68030/40, MC68HC11
+
+Professional Experience - Condensed Synopsis
+
+SR. EMBEDDED FLIGHT SOFTWARE ENGINEER -  MAXAR TECHNOLOGIES,  04/2021 – present
+Environment:  C++/ADA/Integrity-178, AdaMulti IDE, GreensHill Probe & Debugger, git, CVS, FSW simulation tools, DOORS
+
+Space Flight Software Development Team – Maxar Space LLC,  Westminster, CO 
+(Working fully remote from Melbourne, FL)
+Presently designing, developing, testing and releasing new embedded, database-driven software that commands & controls satellite subsystem operations, controls the flight orbital path and positional attitude of satellite & attached sensors relative to earth stations, and that transmits telemetry data and health status of satellite subsystems and on-board payloads.
+
+PRINCIPLE SOFTWARE ENGINEER -  NORTHROP GRUMMAN  AERONAUTICS SYSTEMS,  04/2014 – 01/2021
+Environment:  C++/Linux/Bash, Python, JavaScript, git, Eclipse, Visual Studio, DOORS, Agile, Atlassian Tool Suite, UML, XMLSpy, GDB
+
+Common-Software-Architecture (COMSA) Air Mission Management Products Team 
+•	Created software requirements, conducted software architecture design, and performed code development in C++/Linux on Open-Mission-System (OMS), low-level ‘servlet’ software that acts as an operational infrastructure ‘backbone’ to the COMSA architecture.
+
+•	Designed, developed and tested functional capabilities in C++/Linux for a tactical Mission Vehicle Gateway Service component that provides a communications gateway to capture, parse, translate, and construct OMS-based, tactical airspace planned mission events into data commands native to the Air Vehicle Management System (VMS), so it may receive, load, and activate tactical mission plans, and to provide real-time status on captured, periodic waypoints from an active mission plan while the air vehicle is in route.
+
+Air Vehicle Management System (VMS) Integration Test Team 
+Based on formal VMS system-software requirements, developed and executed Python/JavaScript test scripts that verify and certify correct execution of Operational Flight Programs (OFPs) that manage & control air platform subsystems via Vehicle Mgmt Computers.
+
+SENIOR SOFTWARE ENGINEER -  SCIENTIFIC RESEARCH CORPORATION,  10/2012 – 03/2013
+Environment:  JTRS/GMR Radios, Subversion, C/C++, Linux, Integrity RTOS, VectorCAST, CORBA/ORB Express, Agile SCRUM
+
+Per SPAWAR WNW RIL guidelines, performed software maintenance improvements in an Agile Scrum environment on the current version of the Joint Tactical Radio System (JTRS) Wide-Band Network Waveform software.    Reduction in force due to sequestration.
+
+SENIOR HARDWARE DESIGN ENGINEER -  ELECTROLUX,  04/2011 – 10/2012
+Environment:  C /C#/.NET, STM32F205, ARM CortexM3, BroadcomWLAN SoC, Atmel IAR/AVR, VISIO
+
+Produced embedded software in C that enables Wi-Fi/AHAM Smart Grid connectivity for high-end white goods in the North American kitchen appliance industry.  Produced a first generation, Wi-Fi Network Interface Board (NIU) for the Electrolux appliance suites.  
+
+PRINCIPLE SOFTWARE ENGINEER -  GENERAL DYNAMICS C4 SYSTEMS,  01/2009 – 03/2011
+Environment:  Java, C#/.NET, Perl, VBA, Windows, Eclipse, UML, DOORS, ClearCase, Visual Studio 2008 IDE
+ 
+U.S. Army, Tactical Airspace Interface System (TAIS) Program
+Produced tactical airspace software in Java that interfaces FCS tactical software services with U.S. Army tactical display screens.  Produced TAIS software, field maintenance upgrades in C#/Java that met new FCS requirements and performance enhancements.  
+
+PRINCIPLE SOFTWARE/SYSTEM ENGINEER - RAYTHEON COMPANY, Network Centric Systems, 05/2006 – 12/2008
+Environment:  C, Matlab, Linux, Eclipse, DOORS, Excel/VBA, Visio, PowerPoint, Raytheon 6-Sigma Specialist Certified
+
+Soldier Weapons Sensors Systems (SWSS) / Ground Sensor Integrator (GSI)
+Produced embedded sensor software in C/Linux that operates thermal electronics for image intensified, infrared Night Vision Goggles.  
+Conducted requirements trace, decomposition, mapping, and gap analysis assessments of ground platform sensor requirements allocated by the C4ISR Lead Systems Integrator (LSI-Boeing/SAIC) of the Future Combat Systems Program (FCS).  
+
+
+	FCS SYSTEM ARCHITECT -  SCIENCE  APPLICATIONS INTERNATIONAL CORP  (SAIC),  2005 – 2006
+	CONTRACT  SOFTWARE ENGINEER -  TAC WORLDWIDE,  Client: TEXAS INSTRUMENTS, 2004 
+	STAFF  ENGINEER - SAMSUNG TELECOMMUNICATIONS AMERICA, 2000-2004
+	SENIOR SOFTWARE ENGINEER -  FUJITSU   NETWORK COMMUNICATIONS, IP TRANSPORT GROUP, 1999-2000
+	SENIOR  STAFF  SOFTWARE  ENGINEER -  ERICSSON, CDMA SUBSCRIBER GROUP, 1997 – 1999
+	SENIOR  SOFTWARE  ENGINEER -  MOTOROLA,  1994 - 1996
+	SENIOR  HARDWARE ENGINEER -  GENERAL  DYNAMICS,  FORT WORTH  DIVISION, 1982 - 1993
+ 
+Some Samples of Sponsored Training Courses
+
+* Embedded C++ and Object-Oriented Programming  - 40 hours (Fujitsu) 
+* Rational University Object-Oriented Analysis and Design with C++ - 24 hours (Ericsson)
+* PSOS Kernel System Concepts & Developing pSOSystem Applications - 40 hours (Fujitsu)
+* NucleusPlus Kernel System Concepts & Developing NucleusPlus Applications - 40 hours (Ericsson)
+* Advance C, algorithm techniques - 60 hours (Motorola University)
+
+Education
+Bachelor of Science in Electronic Engineering Technology, 1982, DeVry University, Irving, TX  (ABET Accredited)
